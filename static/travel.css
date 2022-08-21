@@ -1,0 +1,109 @@
+.map {
+    width: 100%;
+    height: 580px;
+    max-height: 580px;
+    position: relative;
+    padding-top: 0.5em;
+    margin-bottom: 1em;
+}
+
+@media (min-width: 320px) and (max-device-width: 568px) {
+    .map {
+        height: 460px;
+    }
+}
+
+@media (orientation: landscape) {
+    .map {
+        height: 70vh;
+    }
+}
+
+@media screen and (min-device-width: 1200px) and (max-device-width: 1600px) and (-webkit-min-device-pixel-ratio: 1) {
+    .map {
+        height: 500px;
+    }
+}
+
+.map #travel-map {
+    background-color: lightgray;
+    width: 100%;
+    height: 100%;
+}
+
+.gm-style-mtc div {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
+
+.time {
+    font-size: 13px;
+    color: #7a9199;
+}
+
+.travel-list {
+    padding-right: 0;
+}
+
+.travel-list__body {
+    margin-top: 0;
+    max-width: 840px;
+}
+
+.travel-list__body > :not(:first-child) {
+    display: none;
+}
+
+.travel-page .time {
+    font-style: italic;
+}
+
+.travel-page a {
+    color: #00a3d9;
+    text-decoration: none;
+}
+
+.travel-page a:hover {
+    color: #0086b3;
+}
+
+.countries-list {
+    padding-left: 0;
+    list-style: none;
+}
+
+.year,
+.countries-list__country .country {
+    font-size: large;
+    font-weight: bold;
+}
+
+.filters,
+.filters-box {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: left;
+    -ms-flex-pack: left;
+    justify-content: left;
+    margin-right: 0.5em;
+}
+
+.filters {
+    margin-bottom: -0.5em;
+}
+
+.filters-box__label,
+.filters-box__item {
+    margin-right: 0.5em;
+}
+
+.filters-box__item {
+    cursor: pointer;
+    border-bottom: 1px solid;
+    color: #0089cc;
+}
+
+.filters-box__item._active {
+    color: grey;
+}

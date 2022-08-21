@@ -1,0 +1,50 @@
+{{ define "main" }}
+<style>
+    tr > th:first-child, td:first-child {
+        padding-left: 0;
+    }
+
+    td, th {
+        padding: 0.75rem;
+        vertical-align: top;
+    }
+
+    @media (max-width: 768px) {
+        .tools {
+            display: none;
+        }
+    }
+
+    .year, .type {
+        display: none;
+    }
+</style>
+<content class="projects">
+    <h1></h1>
+    <table>
+        <thead>
+        <tr>
+            <th class="number">#</th>
+            <th class="client">Client</th>
+            <th class="description">Project</th>
+            <th class="tools">Tools</th>
+            <th class="type">Type</th>
+            <th class="year">Year</th>
+        </tr>
+        </thead>
+        <tbody>
+        {{ $projectsCount := len .Site.Data.projects.projects }}
+        {{ range $index, $element := .Site.Data.projects.projects }}
+        <tr>
+            <td class="number">{{ cond (gt (sub $projectsCount $index) 9) (sub $projectsCount $index) (print "0" (sub $projectsCount $index)) }}</td>
+            <td class="client">{{ .client }}</td>
+            <td class="description">{{ .project }}</td>
+            <td class="tools">{{ .tools }}</td>
+            <td class="type">{{ .type }}</td>
+            <td class="year">{{ .year }}</td>
+        </tr>
+        {{ end }}
+        </tbody>
+    </table>
+</content>
+{{ end }}

@@ -1,0 +1,335 @@
+[
+  {
+    "client": "Luna Finance",
+    "client_ru": "Дороже денег",
+    "project_ru": "Бренд-медиа о финансах",
+    "project": "Brand media for a FinTech product",
+    "tools": "PHP, WordPress",
+    "type": "Техническая разработка",
+    "year": 2022
+  },
+  {
+    "client": "[Under NDA]",
+    "client_ru": "[Под NDA]",
+    "project_ru": "Исследование сетевых пакетов и реверс-инжиниринг интерфейса OBD-II на автомобилях Mazda",
+    "project": "Analysing and reverse engineering of Mazdas’ OBD-II interface",
+    "tools": "Reverse Engineering",
+    "type": "Консультация",
+    "year": 2021
+  },
+  {
+    "client": "Skyeng",
+    "client_ru": "Skyeng",
+    "project_ru": "Веб-платформа для проведения соревнования с функционалом загрузки и оценки конкурсных работ",
+    "project": "Platform for an online contest with the ability to upload and rate competitive works",
+    "tools": "PHP, WordPress",
+    "type": "Техническая разработка",
+    "year": 2021
+  },
+  {
+    "client": "N/A",
+    "client_ru": "N/A",
+    "project_ru": "Прототип приложения для планирования путешествий",
+    "project": "App for creating travel itineraries",
+    "tools": "JavaScript, React.js, TypeScript",
+    "type": "Техническая разработка",
+    "year": 2021
+  },
+  {
+    "client": "VK Pay",
+    "client_ru": "VK Pay",
+    "project_ru": "Участие в разработке клиентской части финансового приложения",
+    "project": "Collaborating in front-end development of a banking application",
+    "tools": "JavaScript, React.js, TypeScript, VK API, VKUI",
+    "type": "Участие в команде",
+    "year": 2021
+  },
+  {
+    "client": "N/A",
+    "client_ru": "N/A",
+    "project_ru": "ЧукотАвиа",
+    "project": "App for tracking available seats on a flight",
+    "tools": "Data, Reverse Engineering, Telegram API",
+    "type": "Техническая разработка",
+    "year": 2020
+  },
+  {
+    "client": "N/A",
+    "client_ru": "N/A",
+    "project_ru": "Веб-приложение по ведению статистики путешествий",
+    "project": "App for journaling travels",
+    "tools": "Google Maps, JavaScript, Node.js, Webpack",
+    "type": "Техническая разработка",
+    "year": 2020
+  },
+  {
+    "client": "Zebra Design Bureau",
+    "client_ru": "Zebra Design Bureau",
+    "project_ru": "Инструмент по автоматизации верстки контента в продуктах Adobe",
+    "project": "Tool for a layout creating automation in Adobe apps",
+    "tools": "Adobe, ExtendScript, JavaScript",
+    "type": "Техническая разработка",
+    "year": 2020
+  },
+  {
+    "client": "N/A",
+    "client_ru": "N/A",
+    "project_ru": "Разработка API к прототипу приложения для доставки товаров",
+    "project": "API for delivery service",
+    "tools": "Laravel, PHP",
+    "type": "Техническая разработка",
+    "year": 2019
+  },
+  {
+    "client": "[Under NDA]",
+    "client_ru": "[Под NDA]",
+    "project_ru": "Инструмент для сбора данных из открытых источников",
+    "project": "Tool for scraping data from a real estate website",
+    "tools": "Data, Laravel, PHP, Reverse Engineering",
+    "type": "Техническая разработка",
+    "year": 2019
+  },
+  {
+    "client": "N/A",
+    "client_ru": "N/A",
+    "project_ru": "Прототип мобильного приложения для бронирования книг в библиотеке",
+    "project": "Prototype of an app for books booking in a library",
+    "tools": "React Native, Reverse Engineering",
+    "type": "Техническая разработка",
+    "year": 2019
+  },
+  {
+    "client": "N/A",
+    "client_ru": "N/A",
+    "project_ru": "Система уведомлений о доступности лотов для записи на государственном портале",
+    "project": "Notification tool of appointment availability on a government’s website",
+    "tools": "Node.js, Reverse Engineering",
+    "type": "Техническая разработка",
+    "year": 2019
+  },
+  {
+    "client": "[Under NDA]",
+    "client_ru": "[Под NDA]",
+    "project_ru": "Подготовка веб-приложения к запуску в IFE самолётов семейства Airbus",
+    "project": "Optimisation of a web app to run on Airbus IFE",
+    "tools": "Docker",
+    "type": "Консультация",
+    "year": 2019
+  },
+  {
+    "client": "Mosgortrans",
+    "client_ru": "Мосгортранс",
+    "project_ru": "Исследование и оптимизация API расписания общественного транспорта",
+    "project": "Public transport API optimisation",
+    "tools": "Reverse Engineering",
+    "type": "Консультация",
+    "year": 2019
+  },
+  {
+    "client": "[Under NDA]",
+    "client_ru": "[Под NDA]",
+    "project_ru": "Информационный сайт для образовательного проекта",
+    "project": "Landing page for an EdTech company",
+    "tools": "WordPress",
+    "type": "Техническая разработка",
+    "year": 2019
+  },
+  {
+    "client": "Skyeng",
+    "client_ru": "Skyeng",
+    "project_ru": "Веб-платформа для проведения соревнований с функционалом загрузки и оценки конкурсных работ",
+    "project": "Platform for an online contest with the ability to upload and rate competitive works",
+    "tools": "Figma, PHP, WordPress, jQuery",
+    "type": "Техническая разработка",
+    "year": 2019
+  },
+  {
+    "client": "[Under NDA]",
+    "client_ru": "[Под NDA]",
+    "project_ru": "Исследование алгоритма подписи данных в банковском приложении",
+    "project": "Reverse engineering of a banking app’s API",
+    "tools": "Reverse Engineering",
+    "type": "Консультация",
+    "year": 2019
+  },
+  {
+    "client": "Skyeng",
+    "client_ru": "Skyeng",
+    "project_ru": "Расширение под WordPress для проведения интерактивных викторин",
+    "project": "WordPress plugin for quizzes",
+    "tools": "JavaScript, WordPress, jQuery",
+    "type": "Техническая разработка",
+    "year": 2019
+  },
+  {
+    "client": "BUSINESS TIMES",
+    "client_ru": "BUSINESS TIMES",
+    "project_ru": "Миграция данных с Drupal на WordPress",
+    "project": "Data migration from Drupal to WordPress",
+    "tools": "Data, SQL",
+    "type": "Консультация",
+    "year": 2018
+  },
+  {
+    "client": "Svyaznoy",
+    "client_ru": "Связной",
+    "project_ru": "Участие в технической разработке системы бронирования отелей",
+    "project": "Participation in the development of a hotel booking system",
+    "tools": "Data, PHP, RabbitMQ",
+    "type": "Участие в команде",
+    "year": 2018
+  },
+  {
+    "client": "Svyaznoy",
+    "client_ru": "Связной",
+    "project_ru": "Онлайн-сервис по продаже билетов",
+    "project": "Online service for booking railway tickets",
+    "tools": "PHP, React.js",
+    "type": "Техническая разработка",
+    "year": 2018
+  },
+  {
+    "client": "[Under NDA]",
+    "client_ru": "[Под NDA]",
+    "project_ru": "Внутрикорпоративный инструмент по сбору данных из социальных сетей и последующей генерацией их в отчет",
+    "project": "Internal system for scraping data from social media and further PDF reports generation",
+    "tools": "Data, Facebook API, Instagram API, Node.js, React.js, Twitter Bootstrap, VK API",
+    "type": "Техническая разработка",
+    "year": 2018
+  },
+  {
+    "client": "Magforest",
+    "client_ru": "Magforest",
+    "project_ru": "Мобильное приложение для платформы по продаже контента",
+    "project": "Mobile app for an online magazine newsstand distribution platform",
+    "tools": "JavaScript, React Native",
+    "type": "Техническая разработка",
+    "year": 2017
+  },
+  {
+    "client": "Magforest",
+    "client_ru": "Magforest",
+    "project_ru": "Разработка API для платформы по продаже контента",
+    "project": "API for an online magazine newsstand distribution platform",
+    "tools": "JavaScript, PHP, SQL, WordPress",
+    "type": "Техническая разработка",
+    "year": 2017
+  },
+  {
+    "client": "Madcrush Labs",
+    "client_ru": "Madcrush Labs",
+    "project_ru": "Участие в технической разработке криптоплатформы",
+    "project": "Participation in the technical development of a cryptocurrency platform",
+    "tools": "AngularJS, Laravel, PHP, TypeScript",
+    "type": "Участие в команде",
+    "year": 2017
+  },
+  {
+    "client": "[Under NDA]",
+    "client_ru": "[Под NDA]",
+    "project_ru": "Внутрикорпоративная система для отслеживания активности в социальных сетях в режиме реального времени",
+    "project": "Real-time tweets aggregator",
+    "tools": "React.js, Twitter API",
+    "type": "Техническая разработка",
+    "year": 2017
+  },
+  {
+    "client": "Timebook",
+    "client_ru": "Timebook",
+    "project_ru": "Участие в разработке системы контроля и управления рабочим временем персонала",
+    "project": "Participation in the technical development of a platform for managing employees' working schedule",
+    "tools": "AngularJS, Node.js, PHP, Yii2",
+    "type": "Участие в команде",
+    "year": 2017
+  },
+  {
+    "client": "N/A",
+    "client_ru": "N/A",
+    "project_ru": "Инструмент для автоматизации ведения маркетинговых активностей в социальных сетях",
+    "project": "Social media marketing automation tool",
+    "tools": "PHP, VK API",
+    "type": "Техническая разработка",
+    "year": 2017
+  },
+  {
+    "client": "Makomania",
+    "client_ru": "Макомания",
+    "project_ru": "Разработка интернет-магазина",
+    "project": "eCommerce website",
+    "tools": "WordPress",
+    "type": "Консультация",
+    "year": 2017
+  },
+  {
+    "client": "[Under NDA]",
+    "client_ru": "[Под NDA]",
+    "project_ru": "Исследование и документирование непубличного банковского API",
+    "project": "Analysing & documenting a private API",
+    "tools": "Reverse Engineering",
+    "type": "Консультация",
+    "year": 2017
+  },
+  {
+    "client": "Site NN",
+    "client_ru": "Сайт НН",
+    "project_ru": "Участие в технической разработке веб-сайтов",
+    "project": "Participation in the technical development of websites",
+    "tools": "PHP, jQuery",
+    "type": "Участие в команде",
+    "year": 2016
+  },
+  {
+    "client": "[Under NDA]",
+    "client_ru": "[Под NDA]",
+    "project_ru": "Внутрикорпоративная система по управлению наличием товаров на складе",
+    "project": "Internal system for managing a warehouse",
+    "tools": "PHP, Twitter Bootstrap, jQuery",
+    "type": "Техническая разработка",
+    "year": 2016
+  },
+  {
+    "client": "N/A",
+    "client_ru": "N/A",
+    "project_ru": "BikeShopList",
+    "project": "Marketplace prototype",
+    "tools": "Microsoft Azure, PHP, Yii2",
+    "type": "Техническая разработка",
+    "year": 2016
+  },
+  {
+    "client": "[Under NDA]",
+    "client_ru": "[Под NDA]",
+    "project_ru": "Парсинг из CSV и VK",
+    "project": "Tool for scraping profiles data from social media",
+    "tools": "Data, PHP, Twitter Bootstrap, VK API, jQuery",
+    "type": "Техническая разработка",
+    "year": 2016
+  },
+  {
+    "client": "N/A",
+    "client_ru": "N/A",
+    "project_ru": "Collezione",
+    "project": "Tool for scraping newsfeed data from social media",
+    "tools": "Data, Facebook API, Instagram API, PHP, VK API, Yii2",
+    "type": "Техническая разработка",
+    "year": 2016
+  },
+  {
+    "client": "YOLO",
+    "client_ru": "YOLO",
+    "project_ru": "Информационный сайт для ресторана",
+    "project": "Business website for a restaurant",
+    "tools": "WordPress",
+    "type": "Техническая разработка",
+    "year": 2016
+  },
+  {
+    "client": "LaLuna",
+    "client_ru": "LaLuna",
+    "project_ru": "Информационный сайт о группе ресторанов",
+    "project": "Business website for a group of restaurants",
+    "tools": "WordPress",
+    "type": "Техническая разработка",
+    "year": 2015
+  }
+]

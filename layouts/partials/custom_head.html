@@ -1,0 +1,15 @@
+{{ if eq .Type "travel" }}
+<script defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDfGO3tpeimm_tFOYe4XJk3La_rxa_DqC0"></script>
+<script src="/travel.js"></script>
+<link rel="stylesheet" href="/travel.css">
+{{- end }}
+<style>
+    body {
+        padding-top: 0 !important;
+        max-width: 1280px !important;
+    }
+
+    content {
+        max-width: 720px !important;
+    }
+</style>
