@@ -1,4 +1,4 @@
-baseURL = 'https://tsaplev.ru/'
+baseURL = 'https://tsaplev.github.io/tsaplevdotme/'
 languageCode = 'en-us'
 title = 'Alexander Tsaplev'
 theme = "hugo-bearblog"
