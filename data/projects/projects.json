@@ -1,5 +1,14 @@
 [
   {
+    "client": "Booking.com",
+    "client_ru": "Booking.com",
+    "project_ru": "Участие в разработке клиентской части booking.com/flights",
+    "project": "Collaborating in front-end development of booking.com/flights",
+    "tools": "JavaScript, React.js, TypeScript",
+    "type": "Участие в команде",
+    "year": 2022
+  },
+  {
     "client": "Luna Finance",
     "client_ru": "Дороже денег",
     "project_ru": "Бренд-медиа о финансах",
@@ -283,7 +292,7 @@
     "client_ru": "[Под NDA]",
     "project_ru": "Внутрикорпоративная система по управлению наличием товаров на складе",
     "project": "Internal system for managing a warehouse",
-    "tools": "PHP, Twitter Bootstrap, jQuery",
+    "tools": "PHP, Twitter Bootstrap, jQuery, SQL",
     "type": "Техническая разработка",
     "year": 2016
   },
