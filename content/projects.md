@@ -1,5 +1,5 @@
 ---
 title: Projects
 menu: main
-type: projects
+layout: projects
 ---

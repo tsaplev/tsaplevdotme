@@ -1,5 +1,5 @@
 ---
 title: Travel
 menu: main
-type: "travel"
+layout: travel
 ---
