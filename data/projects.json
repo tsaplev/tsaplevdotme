@@ -1,8 +1,6 @@
 [
   {
     "client": "Booking.com",
-    "client_ru": "Booking.com",
-    "project_ru": "Участие в разработке клиентской части booking.com/flights",
     "project": "Collaborating on the front-end development of Booking.com Flights",
     "tools": "JavaScript, React.js, TypeScript",
     "type": "Collaborative Project",
@@ -10,8 +8,6 @@
   },
   {
     "client": "Luna Finance",
-    "client_ru": "Дороже денег",
-    "project_ru": "Бренд-медиа о финансах",
     "project": "Branded media for a FinTech product",
     "tools": "PHP, WordPress",
     "type": "Software Development",
@@ -19,8 +15,6 @@
   },
   {
     "client": "[Under NDA]",
-    "client_ru": "[Под NDA]",
-    "project_ru": "Исследование сетевых пакетов и реверс-инжиниринг интерфейса OBD-II на автомобилях Mazda",
     "project": "Analyzing and reverse engineering Mazda's OBD-II interface",
     "tools": "Reverse Engineering",
     "type": "Consultation",
@@ -28,8 +22,6 @@
   },
   {
     "client": "Skyeng",
-    "client_ru": "Skyeng",
-    "project_ru": "Веб-платформа для проведения соревнования с функционалом загрузки и оценки конкурсных работ",
     "project": "Platform for an online contest with the ability to upload and rate competitive works",
     "tools": "PHP, WordPress",
     "type": "Software Development",
@@ -37,8 +29,6 @@
   },
   {
     "client": "N/A",
-    "client_ru": "N/A",
-    "project_ru": "Прототип приложения для планирования путешествий",
     "project": "App designed to plan and organize upcoming travels",
     "tools": "JavaScript, React.js, TypeScript",
     "type": "Software Development",
@@ -46,8 +36,6 @@
   },
   {
     "client": "VK Pay",
-    "client_ru": "VK Pay",
-    "project_ru": "Участие в разработке клиентской части финансового приложения",
     "project": "Collaborating on the front-end development of a banking application",
     "tools": "JavaScript, React.js, TypeScript, VK API, VKUI",
     "type": "Collaborative Project",
@@ -55,8 +43,6 @@
   },
   {
     "client": "N/A",
-    "client_ru": "N/A",
-    "project_ru": "ЧукотАвиа",
     "project": "App for checking available seats on a flight",
     "tools": "Data, Reverse Engineering, Telegram API",
     "type": "Software Development",
@@ -64,8 +50,6 @@
   },
   {
     "client": "N/A",
-    "client_ru": "N/A",
-    "project_ru": "Веб-приложение по ведению статистики путешествий",
     "project": "App for tracking travel history, including visited cities and countries",
     "tools": "Google Maps, JavaScript, Node.js, Webpack",
     "type": "Software Development",
@@ -73,8 +57,6 @@
   },
   {
     "client": "Zebra Design Bureau",
-    "client_ru": "Zebra Design Bureau",
-    "project_ru": "Инструмент по автоматизации верстки контента в продуктах Adobe",
     "project": "Tool for automating layout creation in Adobe apps",
     "tools": "Adobe, ExtendScript, JavaScript",
     "type": "Software Development",
@@ -82,8 +64,6 @@
   },
   {
     "client": "N/A",
-    "client_ru": "N/A",
-    "project_ru": "Разработка API к прототипу приложения для доставки товаров",
     "project": "Developing an API for a delivery service",
     "tools": "Laravel, PHP",
     "type": "Software Development",
@@ -91,8 +71,6 @@
   },
   {
     "client": "[Under NDA]",
-    "client_ru": "[Под NDA]",
-    "project_ru": "Инструмент для сбора данных из открытых источников",
     "project": "Tool for scraping data from a real estate website",
     "tools": "Data, Laravel, PHP, Reverse Engineering",
     "type": "Software Development",
@@ -100,8 +78,6 @@
   },
   {
     "client": "N/A",
-    "client_ru": "N/A",
-    "project_ru": "Прототип мобильного приложения для бронирования книг в библиотеке",
     "project": "Prototype of an app for booking books in a library",
     "tools": "React Native, Reverse Engineering",
     "type": "Software Development",
@@ -109,8 +85,6 @@
   },
   {
     "client": "N/A",
-    "client_ru": "N/A",
-    "project_ru": "Система уведомлений о доступности лотов для записи на государственном портале",
     "project": "Notification tool for appointment availability on a government website",
     "tools": "Node.js, Reverse Engineering",
     "type": "Software Development",
@@ -118,8 +92,6 @@
   },
   {
     "client": "[Under NDA]",
-    "client_ru": "[Под NDA]",
-    "project_ru": "Подготовка веб-приложения к запуску в IFE самолётов семейства Airbus",
     "project": "Optimizing a web app to run on Airbus IFE",
     "tools": "Docker",
     "type": "Consultation",
@@ -127,8 +99,6 @@
   },
   {
     "client": "Mosgortrans",
-    "client_ru": "Мосгортранс",
-    "project_ru": "Исследование и оптимизация API расписания общественного транспорта",
     "project": "Optimizing the public transport API",
     "tools": "Reverse Engineering",
     "type": "Consultation",
@@ -136,8 +106,6 @@
   },
   {
     "client": "[Under NDA]",
-    "client_ru": "[Под NDA]",
-    "project_ru": "Информационный сайт для образовательного проекта",
     "project": "Landing page for an EdTech company",
     "tools": "WordPress",
     "type": "Software Development",
@@ -145,8 +113,6 @@
   },
   {
     "client": "Skyeng",
-    "client_ru": "Skyeng",
-    "project_ru": "Веб-платформа для проведения соревнований с функционалом загрузки и оценки конкурсных работ",
     "project": "Platform for an online contest with the capability to upload and rate competitive works",
     "tools": "Figma, PHP, WordPress, jQuery",
     "type": "Software Development",
@@ -154,8 +120,6 @@
   },
   {
     "client": "[Under NDA]",
-    "client_ru": "[Под NDA]",
-    "project_ru": "Исследование алгоритма подписи данных в банковском приложении",
     "project": "Reverse engineering the API of a banking app",
     "tools": "Reverse Engineering",
     "type": "Consultation",
@@ -163,8 +127,6 @@
   },
   {
     "client": "Skyeng",
-    "client_ru": "Skyeng",
-    "project_ru": "Расширение под WordPress для проведения интерактивных викторин",
     "project": "WordPress plugin for quizzes",
     "tools": "JavaScript, WordPress, jQuery",
     "type": "Software Development",
@@ -172,8 +134,6 @@
   },
   {
     "client": "BUSINESS TIMES",
-    "client_ru": "BUSINESS TIMES",
-    "project_ru": "Миграция данных с Drupal на WordPress",
     "project": "Migrating data from Drupal to WordPress",
     "tools": "Data, SQL",
     "type": "Consultation",
@@ -181,8 +141,6 @@
   },
   {
     "client": "Svyaznoy",
-    "client_ru": "Связной",
-    "project_ru": "Участие в технической разработке системы бронирования отелей",
     "project": "Participating in the development of a hotel booking system",
     "tools": "Data, PHP, RabbitMQ",
     "type": "Collaborative Project",
@@ -190,8 +148,6 @@
   },
   {
     "client": "Svyaznoy",
-    "client_ru": "Связной",
-    "project_ru": "Онлайн-сервис по продаже билетов",
     "project": "Online service for booking airport train tickets",
     "tools": "PHP, React.js",
     "type": "Software Development",
@@ -199,8 +155,6 @@
   },
   {
     "client": "[Under NDA]",
-    "client_ru": "[Под NDA]",
-    "project_ru": "Внутрикорпоративный инструмент по сбору данных из социальных сетей и последующей генерацией их в отчет",
     "project": "Internal system for scraping data from social media and generating PDF reports",
     "tools": "Data, Facebook API, Instagram API, Node.js, React.js, Twitter Bootstrap, VK API",
     "type": "Software Development",
@@ -208,8 +162,6 @@
   },
   {
     "client": "Magforest",
-    "client_ru": "Magforest",
-    "project_ru": "Мобильное приложение для платформы по продаже контента",
     "project": "Mobile app for an online magazine newsstand distribution platform",
     "tools": "JavaScript, React Native",
     "type": "Software Development",
@@ -217,8 +169,6 @@
   },
   {
     "client": "Magforest",
-    "client_ru": "Magforest",
-    "project_ru": "Разработка API для платформы по продаже контента",
     "project": "API for an online magazine newsstand distribution platform",
     "tools": "JavaScript, PHP, SQL, WordPress",
     "type": "Software Development",
@@ -226,8 +176,6 @@
   },
   {
     "client": "Madcrush Labs",
-    "client_ru": "Madcrush Labs",
-    "project_ru": "Участие в технической разработке криптоплатформы",
     "project": "Participating in the technical development of a cryptocurrency platform",
     "tools": "AngularJS, Laravel, PHP, TypeScript",
     "type": "Collaborative Project",
@@ -235,8 +183,6 @@
   },
   {
     "client": "[Under NDA]",
-    "client_ru": "[Под NDA]",
-    "project_ru": "Внутрикорпоративная система для отслеживания активности в социальных сетях в режиме реального времени",
     "project": "Real-time tweet aggregator",
     "tools": "React.js, Twitter API",
     "type": "Software Development",
@@ -244,8 +190,6 @@
   },
   {
     "client": "Timebook",
-    "client_ru": "Timebook",
-    "project_ru": "Участие в разработке системы контроля и управления рабочим временем персонала",
     "project": "Participating in the technical development of a platform for managing employees' work schedules",
     "tools": "AngularJS, Node.js, PHP, Yii2",
     "type": "Collaborative Project",
@@ -253,8 +197,6 @@
   },
   {
     "client": "N/A",
-    "client_ru": "N/A",
-    "project_ru": "Инструмент для автоматизации ведения маркетинговых активностей в социальных сетях",
     "project": "Social media marketing automation tool",
     "tools": "PHP, VK API",
     "type": "Software Development",
@@ -262,8 +204,6 @@
   },
   {
     "client": "Makomania",
-    "client_ru": "Макомания",
-    "project_ru": "Разработка интернет-магазина",
     "project": "eCommerce website",
     "tools": "WordPress",
     "type": "Consultation",
@@ -271,8 +211,6 @@
   },
   {
     "client": "[Under NDA]",
-    "client_ru": "[Под NDA]",
-    "project_ru": "Исследование и документирование непубличного банковского API",
     "project": "Analyzing and documenting a private API",
     "tools": "Reverse Engineering",
     "type": "Consultation",
@@ -280,8 +218,6 @@
   },
   {
     "client": "Site NN",
-    "client_ru": "Сайт НН",
-    "project_ru": "Участие в технической разработке веб-сайтов",
     "project": "Participating in the technical development of websites",
     "tools": "PHP, jQuery",
     "type": "Collaborative Project",
@@ -289,8 +225,6 @@
   },
   {
     "client": "[Under NDA]",
-    "client_ru": "[Под NDA]",
-    "project_ru": "Внутрикорпоративная система по управлению наличием товаров на складе",
     "project": "Internal system for managing a warehouse",
     "tools": "PHP, Twitter Bootstrap, jQuery, SQL",
     "type": "Software Development",
@@ -298,8 +232,6 @@
   },
   {
     "client": "N/A",
-    "client_ru": "N/A",
-    "project_ru": "BikeShopList",
     "project": "Marketplace prototype",
     "tools": "Microsoft Azure, PHP, Yii2",
     "type": "Software Development",
@@ -307,8 +239,6 @@
   },
   {
     "client": "[Under NDA]",
-    "client_ru": "[Под NDA]",
-    "project_ru": "Парсинг из CSV и VK",
     "project": "Tool for scraping profile data from social media",
     "tools": "Data, PHP, Twitter Bootstrap, VK API, jQuery",
     "type": "Software Development",
@@ -316,8 +246,6 @@
   },
   {
     "client": "N/A",
-    "client_ru": "N/A",
-    "project_ru": "Collezione",
     "project": "Tool for scraping news feed data from social media",
     "tools": "Data, Facebook API, Instagram API, PHP, VK API, Yii2",
     "type": "Software Development",
@@ -325,8 +253,6 @@
   },
   {
     "client": "YOLO",
-    "client_ru": "YOLO",
-    "project_ru": "Информационный сайт для ресторана",
     "project": "Business website for a restaurant",
     "tools": "WordPress",
     "type": "Software Development",
@@ -334,8 +260,6 @@
   },
   {
     "client": "LaLuna",
-    "client_ru": "LaLuna",
-    "project_ru": "Информационный сайт о группе ресторанов",
     "project": "Business website for a group of restaurants",
     "tools": "WordPress",
     "type": "Software Development",
