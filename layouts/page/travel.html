@@ -47,7 +47,7 @@
             <div class="summary">
                 <hr>
                 {{ $summaryData := .Site.Data.travel.summary }}
-                <b>Countries:</b> UN {{ $summaryData.countries.un.visited }}/{{ $summaryData.countries.un.total }}, NM {{ $summaryData.countries.nm.visited }}/{{ $summaryData.countries.nm.total }}, TCC {{ $summaryData.countries.tcc.visited }}/{{ $summaryData.countries.tcc.total }}<br/>
+                <b>Countries:</b> UN {{ $summaryData.countries.un.visited }}/{{ $summaryData.countries.un.total }}, UN+ {{ $summaryData.countries.unp.visited }}/{{ $summaryData.countries.unp.total }}, NM {{ $summaryData.countries.nm.visited }}/{{ $summaryData.countries.nm.total }}, TCC {{ $summaryData.countries.tcc.visited }}/{{ $summaryData.countries.tcc.total }}<br/>
                 <b>Cities:</b> {{ $summaryData.cities.total }}<br/>
                 <b>Flights:</b> {{ $summaryData.flights.total }}
             </div>
