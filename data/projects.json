@@ -1,5 +1,12 @@
 [
   {
+    "client": "ProcessOut",
+    "project": "Building a dashboard for a fintech project",
+    "tools": "JavaScript, React.js, TypeScript",
+    "type": "Collaborative Project",
+    "year": 2023
+  },
+  {
     "client": "Booking.com",
     "project": "Collaborating on the front-end development of Booking.com Flights",
     "tools": "JavaScript, React.js, TypeScript",
