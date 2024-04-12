@@ -53,7 +53,7 @@
             </div>
         </article>
     </article>
-    <pre><i>Last Updated: {{ .Lastmod | time.Format ":date_medium" }}</i></pre>
+    <pre><i>Last updated: {{ .Lastmod | time.Format ":date_medium" }}</i></pre>
     <script>window.shareData = {{ .Site.Data.travel.map }}</script>
 </content>
 {{ end }}
