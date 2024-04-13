@@ -2,7 +2,4 @@ baseURL = 'https://tsaplev.me'
 languageCode = 'en-us'
 title = 'Alexander Tsaplev'
 theme = "hugo-bearblog"
-enableGitInfo = true
-[frontmatter]
-    lastmod = [":git"]
 
