@@ -16,11 +16,11 @@
             <div class="travel-list__body">
                 <ol class="countries-list">
                     {{ range .Site.Data.travel.countries }}
-                    <ul class="countries-list">
-                        <li class="countries-list__country"><span class="country">{{ .flag }} {{ .name }}: </span>{{
+                    <li class="countries-list">
+                        <div class="countries-list__country"><span class="country">{{ .flag }} {{ .name }}: </span>{{
                             .cities }}
-                        </li>
-                    </ul>
+                        </div>
+                    </li>
                     {{ end }}
                 </ol>
                 <div class="trips-list">

@@ -69,7 +69,9 @@
 
 .countries-list {
     padding-left: 0;
+    margin-left: 15px; 
     list-style: none;
+    list-style-type: decimal;
 }
 
 .year,
